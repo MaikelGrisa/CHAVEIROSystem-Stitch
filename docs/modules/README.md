@@ -1,0 +1,12 @@
+docs/modules/cadastro.md
+docs/modules/clientes.md
+docs/modules/estoque.md
+docs/modules/financeiro.md
+docs/modules/fornecedores.md
+docs/modules/ordens_servico.md
+docs/modules/veiculos.md
+docs/modules/dashboard.md
+docs/modules/usuarios.md
+docs/modules/configuracoes.md
+docs/modules/agenda.md
+docs/modules/relatorios.md
