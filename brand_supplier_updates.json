@@ -1,0 +1,1432 @@
+[
+  {
+    "codigo": "1061",
+    "codigo_fornecedor": "1061",
+    "marca": "Sinter"
+  },
+  {
+    "codigo": "1060",
+    "codigo_fornecedor": "1061",
+    "marca": "Sinter"
+  },
+  {
+    "codigo": "942",
+    "codigo_fornecedor": "942",
+    "marca": "Hela"
+  },
+  {
+    "codigo": "960",
+    "codigo_fornecedor": "960",
+    "marca": "Hela"
+  },
+  {
+    "codigo": "1010H",
+    "codigo_fornecedor": "1010",
+    "marca": "Hela"
+  },
+  {
+    "codigo": "1117",
+    "codigo_fornecedor": "1117",
+    "marca": "Hela"
+  },
+  {
+    "codigo": "1118",
+    "codigo_fornecedor": "1118",
+    "marca": "Hela"
+  },
+  {
+    "codigo": "75",
+    "codigo_fornecedor": "D75",
+    "marca": "Brasil"
+  },
+  {
+    "codigo": "512",
+    "codigo_fornecedor": "512",
+    "marca": "Brasil"
+  },
+  {
+    "codigo": "1011",
+    "codigo_fornecedor": "1011",
+    "marca": "3F"
+  },
+  {
+    "codigo": "16",
+    "codigo_fornecedor": "D16",
+    "marca": "LA Fonte"
+  },
+  {
+    "codigo": "595",
+    "codigo_fornecedor": "D595",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "355",
+    "codigo_fornecedor": "D355",
+    "marca": "Fama"
+  },
+  {
+    "codigo": "158",
+    "codigo_fornecedor": "158",
+    "marca": "Hafelle"
+  },
+  {
+    "codigo": "14",
+    "codigo_fornecedor": "14",
+    "marca": "LA Fonte"
+  },
+  {
+    "codigo": "269",
+    "codigo_fornecedor": "269",
+    "marca": "Brasil"
+  },
+  {
+    "codigo": "1161",
+    "codigo_fornecedor": "1161",
+    "marca": "Papaiz"
+  },
+  {
+    "codigo": "900",
+    "codigo_fornecedor": "900",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "1072",
+    "codigo_fornecedor": "D1072",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "27",
+    "codigo_fornecedor": "D27",
+    "marca": "Arouca"
+  },
+  {
+    "codigo": "26",
+    "codigo_fornecedor": "D26",
+    "marca": "Arouca"
+  },
+  {
+    "codigo": "694",
+    "codigo_fornecedor": "D694",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "693",
+    "codigo_fornecedor": "D693",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "240",
+    "codigo_fornecedor": "240",
+    "marca": "LA Fonte"
+  },
+  {
+    "codigo": "858",
+    "codigo_fornecedor": "858",
+    "marca": "LA Fonte"
+  },
+  {
+    "codigo": "356",
+    "codigo_fornecedor": "356",
+    "marca": "Fama"
+  },
+  {
+    "codigo": "257",
+    "codigo_fornecedor": "D257",
+    "marca": "Brasil"
+  },
+  {
+    "codigo": "708",
+    "codigo_fornecedor": "D708",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "1129",
+    "codigo_fornecedor": "D1129",
+    "marca": "Haga"
+  },
+  {
+    "codigo": "303",
+    "codigo_fornecedor": "D303",
+    "marca": "Fama"
+  },
+  {
+    "codigo": "682",
+    "codigo_fornecedor": "D682",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "687",
+    "codigo_fornecedor": "687",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "385",
+    "codigo_fornecedor": "D385",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "365",
+    "codigo_fornecedor": "365",
+    "marca": "Fama"
+  },
+  {
+    "codigo": "850",
+    "codigo_fornecedor": "D850",
+    "marca": "HDL"
+  },
+  {
+    "codigo": "1025H",
+    "codigo_fornecedor": "1025",
+    "marca": "Haga"
+  },
+  {
+    "codigo": "445",
+    "codigo_fornecedor": "445",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "297",
+    "codigo_fornecedor": "D297",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "707",
+    "codigo_fornecedor": "D707",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "483",
+    "codigo_fornecedor": "483",
+    "marca": "Lockwell"
+  },
+  {
+    "codigo": "56",
+    "codigo_fornecedor": "D56",
+    "marca": "Haga"
+  },
+  {
+    "codigo": "1087",
+    "codigo_fornecedor": "1087",
+    "marca": "3F"
+  },
+  {
+    "codigo": "543",
+    "codigo_fornecedor": "D543",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "1010",
+    "codigo_fornecedor": "1010",
+    "marca": "3F"
+  },
+  {
+    "codigo": "428",
+    "codigo_fornecedor": "428",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "1128",
+    "codigo_fornecedor": "1128",
+    "marca": "Haga"
+  },
+  {
+    "codigo": "544",
+    "codigo_fornecedor": "D544",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "283",
+    "codigo_fornecedor": "D283",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "851",
+    "codigo_fornecedor": "851",
+    "marca": "3F"
+  },
+  {
+    "codigo": "348",
+    "codigo_fornecedor": "348",
+    "marca": "Amelco"
+  },
+  {
+    "codigo": "714",
+    "codigo_fornecedor": "D714",
+    "marca": "HDL"
+  },
+  {
+    "codigo": "2",
+    "codigo_fornecedor": "D2",
+    "marca": "Yalle"
+  },
+  {
+    "codigo": "1124",
+    "codigo_fornecedor": "1124",
+    "marca": "TRF"
+  },
+  {
+    "codigo": "1129",
+    "codigo_fornecedor": "1129",
+    "marca": "Haga"
+  },
+  {
+    "codigo": "1131",
+    "codigo_fornecedor": "1131",
+    "marca": "Haga"
+  },
+  {
+    "codigo": "1007",
+    "codigo_fornecedor": "1007",
+    "marca": "MGM"
+  },
+  {
+    "codigo": "1130",
+    "codigo_fornecedor": "1130",
+    "marca": "Haga"
+  },
+  {
+    "codigo": "1053",
+    "codigo_fornecedor": "1053",
+    "marca": "Haga"
+  },
+  {
+    "codigo": "666",
+    "codigo_fornecedor": "666",
+    "marca": "Lockwell"
+  },
+  {
+    "codigo": "576",
+    "codigo_fornecedor": "576",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "72",
+    "codigo_fornecedor": "D72",
+    "marca": "Aliança"
+  },
+  {
+    "codigo": "721",
+    "codigo_fornecedor": "D721",
+    "marca": "Imab"
+  },
+  {
+    "codigo": "150",
+    "codigo_fornecedor": "150",
+    "marca": "Papaiz"
+  },
+  {
+    "codigo": "867",
+    "codigo_fornecedor": "867",
+    "marca": "3F"
+  },
+  {
+    "codigo": "29",
+    "codigo_fornecedor": "D29",
+    "marca": "Fama"
+  },
+  {
+    "codigo": "749",
+    "codigo_fornecedor": "749",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "216",
+    "codigo_fornecedor": "216",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "625",
+    "codigo_fornecedor": "D625",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "101",
+    "codigo_fornecedor": "101",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "1036",
+    "codigo_fornecedor": "1036",
+    "marca": "Hafelle"
+  },
+  {
+    "codigo": "982",
+    "codigo_fornecedor": "982",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "218",
+    "codigo_fornecedor": "218",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "200",
+    "codigo_fornecedor": "200",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "203",
+    "codigo_fornecedor": "203",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "581",
+    "codigo_fornecedor": "581",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "408",
+    "codigo_fornecedor": "408",
+    "marca": "Papaiz"
+  },
+  {
+    "codigo": "1151",
+    "codigo_fornecedor": "1151",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "772",
+    "codigo_fornecedor": "772",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "206",
+    "codigo_fornecedor": "206",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "208",
+    "codigo_fornecedor": "208",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "944",
+    "codigo_fornecedor": "944",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "518",
+    "codigo_fornecedor": "518",
+    "marca": "Vouga"
+  },
+  {
+    "codigo": "554",
+    "codigo_fornecedor": "D554",
+    "marca": "Vouga"
+  },
+  {
+    "codigo": "943",
+    "codigo_fornecedor": "943",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "37",
+    "codigo_fornecedor": "37",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "804",
+    "codigo_fornecedor": "804",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "737",
+    "codigo_fornecedor": "D737",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "397",
+    "codigo_fornecedor": "D397",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "405",
+    "codigo_fornecedor": "405",
+    "marca": "Papaiz"
+  },
+  {
+    "codigo": "582",
+    "codigo_fornecedor": "582",
+    "marca": "Papaiz"
+  },
+  {
+    "codigo": "539",
+    "codigo_fornecedor": "539",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "455",
+    "codigo_fornecedor": "455",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "1147",
+    "codigo_fornecedor": "1147",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "574",
+    "codigo_fornecedor": "574",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "802",
+    "codigo_fornecedor": "802",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "585",
+    "codigo_fornecedor": "585",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "607",
+    "codigo_fornecedor": "D607",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "852",
+    "codigo_fornecedor": "D852",
+    "marca": "3F"
+  },
+  {
+    "codigo": "1086",
+    "codigo_fornecedor": "D1086",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "571",
+    "codigo_fornecedor": "D571",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "675",
+    "codigo_fornecedor": "675",
+    "marca": "Pacri"
+  },
+  {
+    "codigo": "87",
+    "codigo_fornecedor": "D87",
+    "marca": "Pacri"
+  },
+  {
+    "codigo": "814",
+    "codigo_fornecedor": "814",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "1025MP",
+    "codigo_fornecedor": "1025",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "1152",
+    "codigo_fornecedor": "1152",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "1079",
+    "codigo_fornecedor": "1079",
+    "marca": "3F"
+  },
+  {
+    "codigo": "580",
+    "codigo_fornecedor": "D580",
+    "marca": "Aliança"
+  },
+  {
+    "codigo": "4",
+    "codigo_fornecedor": "4",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "1170",
+    "codigo_fornecedor": "1170",
+    "marca": "TRF"
+  },
+  {
+    "codigo": "1004L",
+    "codigo_fornecedor": "1004",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "1004C",
+    "codigo_fornecedor": "1004",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "524",
+    "codigo_fornecedor": "524",
+    "marca": "Brasil"
+  },
+  {
+    "codigo": "748",
+    "codigo_fornecedor": "748",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "924",
+    "codigo_fornecedor": "924",
+    "marca": "Yaltres"
+  },
+  {
+    "codigo": "1153",
+    "codigo_fornecedor": "1153",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "435",
+    "codigo_fornecedor": "435",
+    "marca": "Imab"
+  },
+  {
+    "codigo": "1046",
+    "codigo_fornecedor": "1046",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "364",
+    "codigo_fornecedor": "364",
+    "marca": "Papaiz"
+  },
+  {
+    "codigo": "1197",
+    "codigo_fornecedor": "1197",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "1500",
+    "codigo_fornecedor": "1500",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "998",
+    "codigo_fornecedor": "998",
+    "marca": "Pacri"
+  },
+  {
+    "codigo": "361",
+    "codigo_fornecedor": "361",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "1078",
+    "codigo_fornecedor": "1078",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "1185",
+    "codigo_fornecedor": "1185",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "1116",
+    "codigo_fornecedor": "D1116",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "310",
+    "codigo_fornecedor": "D310",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "436",
+    "codigo_fornecedor": "436",
+    "marca": "Imab"
+  },
+  {
+    "codigo": "1045",
+    "codigo_fornecedor": "1045",
+    "marca": "Imab"
+  },
+  {
+    "codigo": "1027",
+    "codigo_fornecedor": "1027",
+    "marca": "Haga"
+  },
+  {
+    "codigo": "1028",
+    "codigo_fornecedor": "1028",
+    "marca": "Haga"
+  },
+  {
+    "codigo": "329",
+    "codigo_fornecedor": "329",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "352",
+    "codigo_fornecedor": "D352",
+    "marca": "Auto"
+  },
+  {
+    "codigo": "618",
+    "codigo_fornecedor": "D618",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "612",
+    "codigo_fornecedor": "D612",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "700",
+    "codigo_fornecedor": "D700",
+    "marca": "Lockwell"
+  },
+  {
+    "codigo": "183",
+    "codigo_fornecedor": "183",
+    "marca": "Papaiz"
+  },
+  {
+    "codigo": "609",
+    "codigo_fornecedor": "609",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "327",
+    "codigo_fornecedor": "327",
+    "marca": "Papaiz"
+  },
+  {
+    "codigo": "1021",
+    "codigo_fornecedor": "1021",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "1048",
+    "codigo_fornecedor": "1048",
+    "marca": "3 Círculo"
+  },
+  {
+    "codigo": "GJ",
+    "codigo_fornecedor": "GJ",
+    "marca": "Diversas"
+  },
+  {
+    "codigo": "84",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "299",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "299C",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "2992",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "433",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "280",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "315",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "4334",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "433A",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CTM",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "299433",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "TAG1",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "TAG2",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CD20",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CD20S",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CDP",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CLP",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "M57",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "M58",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "M59",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "AC01",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "AC06",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "AC02",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "AC03",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "AC04",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "EL01",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "EL02",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "B23",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "B27",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "B2032",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "B1616",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "B1620",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "B2016",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "B2430",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "B1220",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "AC05",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CLST",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CLPD",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CLSP",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CL01",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CLPP",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CLTPQ",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CLTGR",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CLL",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CGPC",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CGPL",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "FCT01",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "FC20",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "FC30",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "FC40",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "FCTA",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "FCTA2",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "-",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "DESC",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "PREJ",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "DEVOL",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "1157",
+    "codigo_fornecedor": "1157",
+    "marca": "-"
+  },
+  {
+    "codigo": "619",
+    "codigo_fornecedor": "D619",
+    "marca": ""
+  },
+  {
+    "codigo": "CLIMAB01",
+    "codigo_fornecedor": "",
+    "marca": ""
+  },
+  {
+    "codigo": "CL3F01",
+    "codigo_fornecedor": "",
+    "marca": ""
+  },
+  {
+    "codigo": "SERVEX01",
+    "codigo_fornecedor": "",
+    "marca": ""
+  },
+  {
+    "codigo": "B9V",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "1152",
+    "codigo_fornecedor": "1152",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "AAA",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "POG",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "1191",
+    "codigo_fornecedor": "1191",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "1181",
+    "codigo_fornecedor": "1181",
+    "marca": "Aliança"
+  },
+  {
+    "codigo": "OMS",
+    "codigo_fornecedor": "-",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "CLMPS",
+    "codigo_fornecedor": "-",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "CAY",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CAYG",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "PP",
+    "codigo_fornecedor": "-",
+    "marca": "Digibraz"
+  },
+  {
+    "codigo": "FC55",
+    "codigo_fornecedor": "-",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "FCBNP",
+    "codigo_fornecedor": "-",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "596",
+    "codigo_fornecedor": "D596",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "VTEM",
+    "codigo_fornecedor": "-",
+    "marca": "VTE"
+  },
+  {
+    "codigo": "VTE4334",
+    "codigo_fornecedor": "-",
+    "marca": "VTE"
+  },
+  {
+    "codigo": "VTE2994",
+    "codigo_fornecedor": "-",
+    "marca": "VTE"
+  },
+  {
+    "codigo": "519",
+    "codigo_fornecedor": "D519",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "CYM",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "FPVAA",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "IDC",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "688",
+    "codigo_fornecedor": "-",
+    "marca": "Pado"
+  },
+  {
+    "codigo": "1080",
+    "codigo_fornecedor": "1080",
+    "marca": "MGM"
+  },
+  {
+    "codigo": "1127",
+    "codigo_fornecedor": "1127",
+    "marca": "3F"
+  },
+  {
+    "codigo": "AC05",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "728",
+    "codigo_fornecedor": "728",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "CD20SP",
+    "codigo_fornecedor": "-",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "CD20SSA",
+    "codigo_fornecedor": "-",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "B2025",
+    "codigo_fornecedor": "2025",
+    "marca": "Panasonic"
+  },
+  {
+    "codigo": "CCP",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "LCA",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CDPP25",
+    "codigo_fornecedor": "-",
+    "marca": "PADO"
+  },
+  {
+    "codigo": "CDP20",
+    "codigo_fornecedor": "-",
+    "marca": "PADO"
+  },
+  {
+    "codigo": "CDP25",
+    "codigo_fornecedor": "-",
+    "marca": "PADO"
+  },
+  {
+    "codigo": "CDP35",
+    "codigo_fornecedor": "-",
+    "marca": "PADO"
+  },
+  {
+    "codigo": "CDP40",
+    "codigo_fornecedor": "-",
+    "marca": "PADO"
+  },
+  {
+    "codigo": "605",
+    "codigo_fornecedor": "D605",
+    "marca": "Stam"
+  },
+  {
+    "codigo": "B2450",
+    "codigo_fornecedor": "2450",
+    "marca": "Panasonic"
+  },
+  {
+    "codigo": "FPVP",
+    "codigo_fornecedor": "-",
+    "marca": "Arouca/3F"
+  },
+  {
+    "codigo": "1169",
+    "codigo_fornecedor": "1169",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "CTPST",
+    "codigo_fornecedor": "-",
+    "marca": "Positron"
+  },
+  {
+    "codigo": "828",
+    "codigo_fornecedor": "828",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "312",
+    "codigo_fornecedor": "D312",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "PPE",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "39",
+    "codigo_fornecedor": "39",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "273",
+    "codigo_fornecedor": "273",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "1014",
+    "codigo_fornecedor": "1014",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "869",
+    "codigo_fornecedor": "869",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "620",
+    "codigo_fornecedor": "620",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "792",
+    "codigo_fornecedor": "D792",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "1000",
+    "codigo_fornecedor": "1000",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "30",
+    "codigo_fornecedor": "30",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "CB",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CDP45",
+    "codigo_fornecedor": "-",
+    "marca": "PADO"
+  },
+  {
+    "codigo": "1054",
+    "codigo_fornecedor": "1054",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "1026",
+    "codigo_fornecedor": "1026",
+    "marca": "Soprano Dovale"
+  },
+  {
+    "codigo": "977",
+    "codigo_fornecedor": "977",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "270",
+    "codigo_fornecedor": "270",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "1880",
+    "codigo_fornecedor": "1880",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "CTFD",
+    "codigo_fornecedor": "CTFD",
+    "marca": "Ford"
+  },
+  {
+    "codigo": "227",
+    "codigo_fornecedor": "227",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "827",
+    "codigo_fornecedor": "827",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "ALC",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "238",
+    "codigo_fornecedor": "238",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "15",
+    "codigo_fornecedor": "15",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "CCP3",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "CD20SL",
+    "codigo_fornecedor": "-",
+    "marca": "Soprano"
+  },
+  {
+    "codigo": "617",
+    "codigo_fornecedor": "D617",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "716",
+    "codigo_fornecedor": "D716",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "142",
+    "codigo_fornecedor": "142",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "1052",
+    "codigo_fornecedor": "1052",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "M61",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "M60",
+    "codigo_fornecedor": "-",
+    "marca": "-"
+  },
+  {
+    "codigo": "633",
+    "codigo_fornecedor": "533",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "398",
+    "codigo_fornecedor": "398",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "4333",
+    "codigo_fornecedor": "4333",
+    "marca": "VTE"
+  },
+  {
+    "codigo": "2993",
+    "codigo_fornecedor": "2993",
+    "marca": "VTE"
+  },
+  {
+    "codigo": "2994",
+    "codigo_fornecedor": "2994",
+    "marca": "VTE"
+  },
+  {
+    "codigo": "B2032C",
+    "codigo_fornecedor": "B2032C",
+    "marca": "PKCELL"
+  },
+  {
+    "codigo": "918",
+    "codigo_fornecedor": "918",
+    "marca": "Gold"
+  },
+  {
+    "codigo": "1077",
+    "codigo_fornecedor": "1077",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "418",
+    "codigo_fornecedor": "418",
+    "marca": "Lockwell"
+  },
+  {
+    "codigo": "1531",
+    "codigo_fornecedor": "1531",
+    "marca": "Dovale"
+  },
+  {
+    "codigo": "MCT32",
+    "codigo_fornecedor": "MCT32",
+    "marca": "-"
+  }
+]

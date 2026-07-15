@@ -1,0 +1,532 @@
+{
+  "prodServ": [
+    {
+      "name": "Produto | Fornecedor",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Gold - Yale",
+      "purchasePrice": 2.6
+    },
+    {
+      "name": "Dovale - Yale",
+      "purchasePrice": 2.6
+    },
+    {
+      "name": "Gold - Tetra",
+      "purchasePrice": 7.6
+    },
+    {
+      "name": "Dovale - Tetra",
+      "purchasePrice": 7
+    },
+    {
+      "name": "Gold - Stam",
+      "purchasePrice": 7
+    },
+    {
+      "name": "Dovale - Tetra Stam",
+      "purchasePrice": 4.5
+    },
+    {
+      "name": "Dovale - Original Yale",
+      "purchasePrice": 2.5
+    },
+    {
+      "name": "Dovale - Multiponto Soprano",
+      "purchasePrice": 10
+    },
+    {
+      "name": "Dovale - Multiponto Haga",
+      "purchasePrice": 15
+    },
+    {
+      "name": "Dovale - Multiponto Imab",
+      "purchasePrice": 15
+    },
+    {
+      "name": "Pó de Grafite",
+      "purchasePrice": 4
+    },
+    {
+      "name": "Gold - Multiponto Yaltres",
+      "purchasePrice": 26.5
+    },
+    {
+      "name": "Gold - Chave Trator",
+      "purchasePrice": 4.3
+    },
+    {
+      "name": "Dovale - Auto Metal",
+      "purchasePrice": 4
+    },
+    {
+      "name": "Dovale - Miltiponto Pado",
+      "purchasePrice": 15
+    },
+    {
+      "name": "Dovale - Chave Interna Gorje",
+      "purchasePrice": 4.5
+    },
+    {
+      "name": "Controle Trilha 299",
+      "purchasePrice": 7.8
+    },
+    {
+      "name": "Controle de Trilha 299 Colors",
+      "purchasePrice": 8.3
+    },
+    {
+      "name": "Controle Duplicador 299 - 2BT",
+      "purchasePrice": 15
+    },
+    {
+      "name": "Controle Duplicador 433 - 2BT",
+      "purchasePrice": 15
+    },
+    {
+      "name": "Controle Trilha 280",
+      "purchasePrice": 7.8
+    },
+    {
+      "name": "Controle Trilha 315",
+      "purchasePrice": 7.8
+    },
+    {
+      "name": "Controle Duplicador 433 - 4 BT",
+      "purchasePrice": 24
+    },
+    {
+      "name": "Controle 433 Auto - 4 BT",
+      "purchasePrice": 20
+    },
+    {
+      "name": "Controle Mult Auto - 2BT",
+      "purchasePrice": 16
+    },
+    {
+      "name": "Controle Mult 299 e 433",
+      "purchasePrice": 55
+    },
+    {
+      "name": "TAG 125",
+      "purchasePrice": 3
+    },
+    {
+      "name": "TAG 1356",
+      "purchasePrice": 3
+    },
+    {
+      "name": "Cadeado 20",
+      "purchasePrice": 5.5
+    },
+    {
+      "name": "Cadeado 25",
+      "purchasePrice": 10
+    },
+    {
+      "name": "Cadeado 30",
+      "purchasePrice": 10
+    },
+    {
+      "name": "Cadeado35",
+      "purchasePrice": 10
+    },
+    {
+      "name": "Cadeado 40",
+      "purchasePrice": 10
+    },
+    {
+      "name": "Cadeado 45",
+      "purchasePrice": 10
+    },
+    {
+      "name": "Cadeado 50",
+      "purchasePrice": 10
+    },
+    {
+      "name": "Cadeado 55",
+      "purchasePrice": 10
+    },
+    {
+      "name": "Cadeado 60",
+      "purchasePrice": 10
+    },
+    {
+      "name": "Cadeado 20 - Stam Segredo Fixo",
+      "purchasePrice": 14
+    },
+    {
+      "name": "Cadeado Padrão RGE",
+      "purchasePrice": 20.46
+    },
+    {
+      "name": "Serviço Loja",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Serviço Externo",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Cilindro Padrão RGE",
+      "purchasePrice": 38.83
+    },
+    {
+      "name": "Cordão Moto",
+      "purchasePrice": 4.5
+    },
+    {
+      "name": "Cordão Autismo",
+      "purchasePrice": 4.5
+    },
+    {
+      "name": "Chaveirinho",
+      "purchasePrice": 4.5
+    },
+    {
+      "name": "Carcaça Automotiva",
+      "purchasePrice": 40
+    },
+    {
+      "name": "Carcaça Automotiva Capinha Frontal",
+      "purchasePrice": 15
+    },
+    {
+      "name": "Carcaça Controle Auto",
+      "purchasePrice": 15
+    },
+    {
+      "name": "Serviço Auto",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Troca Micro Chave Eletrônica",
+      "purchasePrice": 2
+    },
+    {
+      "name": "Bateria A23",
+      "purchasePrice": 1.3
+    },
+    {
+      "name": "Bateria A27",
+      "purchasePrice": 3.75
+    },
+    {
+      "name": "Bateria 2032",
+      "purchasePrice": 3.75
+    },
+    {
+      "name": "Bateria 1616",
+      "purchasePrice": 3.75
+    },
+    {
+      "name": "Bateria 1620",
+      "purchasePrice": 3.75
+    },
+    {
+      "name": "Bateria 2016",
+      "purchasePrice": 3.75
+    },
+    {
+      "name": "Bateria 2430",
+      "purchasePrice": 6
+    },
+    {
+      "name": "Bateria 1220",
+      "purchasePrice": 3.75
+    },
+    {
+      "name": "Serviços Eletrônicos",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Chave Automotiva Positron",
+      "purchasePrice": 60
+    },
+    {
+      "name": "Carcaça Automotiva Completa Adaptação",
+      "purchasePrice": 40
+    },
+    {
+      "name": "Cilindro Stam",
+      "purchasePrice": 20
+    },
+    {
+      "name": "Cilindro Pado",
+      "purchasePrice": 20
+    },
+    {
+      "name": "Cilindro Soprano | 3F",
+      "purchasePrice": 25
+    },
+    {
+      "name": "Cilindro",
+      "purchasePrice": 20
+    },
+    {
+      "name": "Cilindro Papaiz",
+      "purchasePrice": 25
+    },
+    {
+      "name": "Cilindro Tetra PQ",
+      "purchasePrice": 50
+    },
+    {
+      "name": "Cilindro Tetra GR",
+      "purchasePrice": 55
+    },
+    {
+      "name": "Cilindro Gaveta Lingueta",
+      "purchasePrice": 22
+    },
+    {
+      "name": "Cilindro Gaveta Pressão Curta",
+      "purchasePrice": 12
+    },
+    {
+      "name": "Cilindro Gaveta Pressão Longo",
+      "purchasePrice": 15
+    },
+    {
+      "name": "Fechadura Tetra",
+      "purchasePrice": 75
+    },
+    {
+      "name": "Fechadura 20",
+      "purchasePrice": 60
+    },
+    {
+      "name": "Fechadura 30",
+      "purchasePrice": 60
+    },
+    {
+      "name": "Fechadura 40",
+      "purchasePrice": 60
+    },
+    {
+      "name": "Fechadura Auxiliar Tetra",
+      "purchasePrice": 60
+    },
+    {
+      "name": "Fechadura Auxiliar Tetra - Par",
+      "purchasePrice": 120
+    },
+    {
+      "name": "Nenhum",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Desconto",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Prejuízo",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Devolução",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Cilindro IMAB",
+      "purchasePrice": 73.51
+    },
+    {
+      "name": "Cilindro 3F",
+      "purchasePrice": 28.11
+    },
+    {
+      "name": "Serviço Externo",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Bateria 9V",
+      "purchasePrice": 7
+    },
+    {
+      "name": "Bateria AAA",
+      "purchasePrice": 4.5
+    },
+    {
+      "name": "Pó Grafite",
+      "purchasePrice": 4
+    },
+    {
+      "name": "Olho Mágico Soprano",
+      "purchasePrice": 20
+    },
+    {
+      "name": "Clindro Multiponto Soprano (5 Chaves)",
+      "purchasePrice": 70
+    },
+    {
+      "name": "Chave Automotiva Yalle",
+      "purchasePrice": 6
+    },
+    {
+      "name": "Chave Automotiva Yalle c/ Gaveta",
+      "purchasePrice": 9
+    },
+    {
+      "name": "Pilha Palito",
+      "purchasePrice": 4.5
+    },
+    {
+      "name": "Fechadura 55",
+      "purchasePrice": 110
+    },
+    {
+      "name": "Fechadura Banheiro Pado Raio",
+      "purchasePrice": 60
+    },
+    {
+      "name": "Controle VTE Multi - 4BT",
+      "purchasePrice": 35
+    },
+    {
+      "name": "Controle VTE 433 - 4BT",
+      "purchasePrice": 26
+    },
+    {
+      "name": "Controle VTE 299 - 4BT",
+      "purchasePrice": 26
+    },
+    {
+      "name": "Chave Yale Moto",
+      "purchasePrice": 7
+    },
+    {
+      "name": "Fechadura Porta de Vidro - Asa de Avião",
+      "purchasePrice": 65
+    },
+    {
+      "name": "Identificador de Chave",
+      "purchasePrice": 0.6
+    },
+    {
+      "name": "Carcaça Controle Auto Presença",
+      "purchasePrice": 70
+    },
+    {
+      "name": "Gold - Multiponto Soprano",
+      "purchasePrice": 10
+    },
+    {
+      "name": "Cadeado 20 - Stam/3F Segredo Personalisado",
+      "purchasePrice": 17
+    },
+    {
+      "name": "Cadeado 20 - Soprano Segredo Pers. e Cabo Aço",
+      "purchasePrice": 20
+    },
+    {
+      "name": "Bateria 2025",
+      "purchasePrice": 3.75
+    },
+    {
+      "name": "Carcaça Controle Portão",
+      "purchasePrice": 5
+    },
+    {
+      "name": "Logo Chave Automotiva",
+      "purchasePrice": 1
+    },
+    {
+      "name": "Cadeado 25 PADO - Padronizado",
+      "purchasePrice": 17
+    },
+    {
+      "name": "Cadeado 20 PADO",
+      "purchasePrice": 8.14
+    },
+    {
+      "name": "Cadeado 25 PADO",
+      "purchasePrice": 9.46
+    },
+    {
+      "name": "Cadeado 35 PADO",
+      "purchasePrice": 14.77
+    },
+    {
+      "name": "Cadeado 40 PADO",
+      "purchasePrice": 16.67
+    },
+    {
+      "name": "Bateria 2450",
+      "purchasePrice": 7
+    },
+    {
+      "name": "Fehcadura Porta de Vidro - Pino",
+      "purchasePrice": 35
+    },
+    {
+      "name": "Controle Positron 4BT",
+      "purchasePrice": 45
+    },
+    {
+      "name": "Placa Portão Eletrônico 299/433",
+      "purchasePrice": 35
+    },
+    {
+      "name": "Chave Banheiro",
+      "purchasePrice": 5
+    },
+    {
+      "name": "Cadeado 45 PADO",
+      "purchasePrice": 28
+    },
+    {
+      "name": "Multiponto Haideli",
+      "purchasePrice": 13.8
+    },
+    {
+      "name": "Controle Original Ford 3/4BT",
+      "purchasePrice": 28
+    },
+    {
+      "name": "Serviços Automotivos",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Afiação de Alicate",
+      "purchasePrice": 0
+    },
+    {
+      "name": "Cadeado 20 - Soprano Longo  Segredo Personalisado",
+      "purchasePrice": 40
+    },
+    {
+      "name": "Chaveiro Mosquetão",
+      "purchasePrice": 1.5
+    },
+    {
+      "name": "Chaveirinho Bonecos Animados",
+      "purchasePrice": 8
+    },
+    {
+      "name": "Controle Duplicador 433 - 3BT",
+      "purchasePrice": 15
+    },
+    {
+      "name": "Controle Duplicador 299 - 3BT",
+      "purchasePrice": 15
+    },
+    {
+      "name": "Controle Duplicador 299 - 4BT",
+      "purchasePrice": 15
+    },
+    {
+      "name": "Bateria 2032 Controle",
+      "purchasePrice": 0.9
+    },
+    {
+      "name": "Multiponto Papaiz",
+      "purchasePrice": 13.5
+    },
+    {
+      "name": "Controle Duplicador 433/299 - 32 canais",
+      "purchasePrice": 70
+    }
+  ]
+}
