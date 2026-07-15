@@ -1,0 +1,1 @@
+UPDATE public.organizations SET logo_url = 'https://project--359fa116-b325-4952-8675-eaaea1ef9d96.lovable.app' || logo_url WHERE logo_url LIKE '/__l5e/%';

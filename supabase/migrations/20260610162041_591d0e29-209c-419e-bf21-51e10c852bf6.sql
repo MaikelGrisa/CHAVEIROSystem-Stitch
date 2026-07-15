@@ -1,0 +1,1 @@
+ALTER TABLE public.products ADD CONSTRAINT products_codigo_key UNIQUE (codigo);

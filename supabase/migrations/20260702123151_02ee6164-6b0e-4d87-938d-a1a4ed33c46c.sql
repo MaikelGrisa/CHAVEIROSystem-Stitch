@@ -1,0 +1,1 @@
+UPDATE public.organizations SET logo_url = '/__l5e/assets-v1/e17cb20a-b3ea-443f-949a-47b3802304a5/grisa-chaveiro-logo.png' WHERE id = '6e7a9f4d-494e-4d85-8a39-ffb97751b859';

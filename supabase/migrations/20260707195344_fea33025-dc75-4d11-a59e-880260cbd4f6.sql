@@ -1,0 +1,1 @@
+UPDATE public.organizations SET logo_url = 'https://project--359fa116-b325-4952-8675-eaaea1ef9d96.lovable.app/__l5e/assets-v1/f4ca0caa-df3a-4b5c-a4b5-500b2d8e66f3/rt-chaves-logo.png' WHERE id = '5d6e33e2-9bbf-4f1b-99a4-f3849be5a3eb';

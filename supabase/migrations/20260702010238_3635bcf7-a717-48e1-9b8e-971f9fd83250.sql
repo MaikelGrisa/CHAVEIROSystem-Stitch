@@ -1,0 +1,1 @@
+UPDATE public.organizations SET logo_url = '/__l5e/assets-v1/8a467bd4-dd1b-44c8-9892-d55d14cf7356/chaveiro-top-logo.png' WHERE id = '00000000-0000-0000-0000-000000000001';

@@ -1,0 +1,1 @@
+ALTER TABLE public.service_orders ADD COLUMN IF NOT EXISTS show_products_pdf boolean NOT NULL DEFAULT true;

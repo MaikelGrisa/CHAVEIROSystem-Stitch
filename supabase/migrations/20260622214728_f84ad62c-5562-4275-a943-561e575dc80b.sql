@@ -1,0 +1,3 @@
+ALTER TABLE public.purchase_list_items ADD COLUMN IF NOT EXISTS position INTEGER NOT NULL DEFAULT 0;
+UPDATE public.purchase_list_items pli SET position = sub.rn FROM (SELECT product_id, ROW_NUMBER() OVER (ORDER BY created_at ASC) AS rn FROM public.purchase_list_items) sub WHERE pli.product_id = sub.product_id;
+CREATE INDEX IF NOT EXISTS purchase_list_items_position_idx ON public.purchase_list_items(position);

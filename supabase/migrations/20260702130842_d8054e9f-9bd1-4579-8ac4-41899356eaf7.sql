@@ -1,0 +1,1 @@
+UPDATE public.organizations SET logo_url = '/__l5e/assets-v1/89b9faac-0ab4-4eec-9bdf-5e82b8db0c72/grisa-chaveiro-logo.png' WHERE name ILIKE '%grisa%';

@@ -1,0 +1,1 @@
+ALTER TABLE public.organizations ADD COLUMN IF NOT EXISTS admin_pin text NOT NULL DEFAULT '1234';
